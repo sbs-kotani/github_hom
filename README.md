@@ -1,8 +1,7 @@
 *** windows上で実施する場合には、Dosウィンドウ上で以下のコマンドを入力して下さい。
 
 git clone https://github.com/各自のgithub名/blogprj.git　　　　　　　　　　　　　　　　　　　　　　　
-
-*** VS codeでソース修正                            
+*** VS codeでソース修正 　　　　　　　　　　　　　　　　　　　　　                           
   
 cd blogprj                            
 
