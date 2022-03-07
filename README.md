@@ -6,7 +6,7 @@ cd blogprj
 git init                            
 git add  .                            
 git status                            
-git commit -m "2022.3.7"                            
+git commit -m "日付（西暦）"                            
 
 git remote rm origin
 git remote add origin https://各自のgithub名@github.com/各自のgithub名/blogprj.git
