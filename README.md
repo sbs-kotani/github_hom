@@ -15,7 +15,7 @@ git remote add origin https://各自のgithub名@github.com/各自のgithub名/b
 git push origin main
 
 
-*** ユーザ名、emailアドレスが必要な場合には、登録時の物を使用して下さい。                            
+*** ユーザ名、emailアドレスが必要な場合には、登録時に入力した内容を使用して下さい。                         
 git config --global user.name "各自の名前"                            
 git config --global user.email "sbsN@kkotani.net"   
 　　注）sbsN　：　各自の番号
